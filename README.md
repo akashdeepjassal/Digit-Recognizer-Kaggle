@@ -1,2 +1,4 @@
 # Digit-Recognizer-Kaggle
-Submission for kaggel 
+Submission for kaggle
+https://www.kaggle.com/c/digit-recognizer 
+
