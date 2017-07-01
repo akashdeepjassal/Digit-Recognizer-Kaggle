@@ -1,10 +1,3 @@
-'''
-  Keras CNN based losely on a slightly shallower version of the vgg16 CNN.
-  Code uses various snippets from other projects on github and kaggle kernels
-  for which I've lost notes of the original authors. Apologies in advance!
-  This version with 30 epochs scored 99.4% on the Kaggle competition and took about 30 minutes
-  to run on an AWS EC2 p2.xlarge instance
-'''
 
 import numpy as np
 
